@@ -4,7 +4,7 @@ title: Education must also train one for quick, resolute and effective thinking.
 categories:
 - Jekyll
 - tutorial
-image: "/assets/images/9.jpg"
+image: "/assets/images/logo.jpg"
 
 ---
 There are lots of powerful things you can do with the Markdown editor
