@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'WeLinQ: Brand New Card Design Release'
+title: 'WeLinQ: App Introduction'
 categories:
 - Jekyll
 image: "/assets/images/4.png"
